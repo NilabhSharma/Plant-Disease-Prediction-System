@@ -75,7 +75,7 @@ The app loads the trained model (`trained_model.keras`) and returns the predicte
 
 1. Clone the repository
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/NilabhSharma/Plant-Disease-Prediction-System>
    cd plant-disease-recognition
    ```
 
